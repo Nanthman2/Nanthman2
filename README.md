@@ -28,7 +28,7 @@ I enjoy building **end-to-end projects**: data understanding → modeling → va
 
 ---
 
-## Featured projects
+## ⭐ Featured projects
 
 ### 🎲 Markov Decision Processes — *Snakes & Ladders* (Value Iteration)
 **Goal:** learn an **optimal policy** (dice choice) in a stochastic environment with traps/boosts.  
