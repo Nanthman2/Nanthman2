@@ -70,7 +70,7 @@ I enjoy building **end-to-end projects**: data understanding → modeling → va
 ---
 
 ### 🧬 Interactive Dashboard — Breast Cancer Genomics (METABRIC)
-**Goal:** make high-dimensional genomics exploration **interactive and accessible** (Learning/Expert modes).  
+**Goal:** make high-dimensional genomics exploration **interactive and accessible**.  
 
 **Highlights**
 - EDA + differential expression (Volcano Plot)
@@ -97,8 +97,7 @@ I enjoy building **end-to-end projects**: data understanding → modeling → va
 
 ## Currently
 
-- **Master thesis:** *Causal Inference with Machine Learning*  
-  (treatment effects, IV assumptions, S/T/X-learners, Double ML)
+- **Master thesis:** *Causal Inference with Machine Learning* in collaboration with EuroConsumers (Random Controlled Trials and Causal Machine Learning)
 
 ---
 
