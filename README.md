@@ -28,31 +28,6 @@ I enjoy building **end-to-end projects**: data understanding → modeling → va
 
 ---
 
-## Technical skills
-
-**Languages**
-- Python • R • SQL • Java
-
-**Python (Data / ML)**
-- pandas • numpy • scikit-learn
-- Model evaluation: cross-validation, metrics, leakage-safe pipelines
-- Unsupervised learning: clustering, dimensionality reduction
-
-**Statistics**
-- Linear models & diagnostics (assumptions checks, model comparison)
-- Bayesian inference: hierarchical models, MCMC (Gibbs / Metropolis)
-- Time series: ARIMA / SARIMA, Holt–Winters, residual diagnostics
-
-**Visualization & Apps**
-- Plotly
-- Shiny for Python / Shiny
-- Dashboards & reporting (Markdown / notebooks)
-
-**Tools**
-- Git/GitHub • reproducible workflows
-
----
-
 ## Featured projects
 
 ### 🎲 Markov Decision Processes — *Snakes & Ladders* (Value Iteration)
