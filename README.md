@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:nathandevaux0309@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational" alt="email badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINK_HERE/">
+  <a href="https://www.linkedin.com/in/YOUR_LINK_HERE/](https://www.linkedin.com/in/nathan-devaux-5a209b352/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational" alt="linkedin badge"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Belgium-informational" alt="location badge"/>
@@ -24,7 +24,7 @@
 I'm **Nathan Devaux**, a **Junior Data Scientist** currently pursuing an **M.Sc. in Data Science & Applied Statistics (UCLouvain)**.  
 I enjoy building **end-to-end projects**: data understanding → modeling → validation → communication (reports & interactive apps).
 
-**Interests:** machine learning, Bayesian modeling, causal inference, high-dimensional data mining, and time series.
+**Interests:** Machine Learning, Artificial Intelligence, High-Dimensional Data Mining, Causal Inference.
 
 ---
 
