@@ -19,7 +19,7 @@
 
 ---
 
-## About me
+## 👋 About me
 
 I'm **Nathan Devaux**, a **Junior Data Scientist** currently pursuing an **M.Sc. in Data Science & Applied Statistics (UCLouvain)**.  
 I enjoy building **end-to-end projects**: data understanding → modeling → validation → communication (reports & interactive apps).
