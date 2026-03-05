@@ -45,6 +45,7 @@ I enjoy building **end-to-end projects**: data understanding → modeling → va
 
 ### 🧠 Machine Learning — *Smurfs* (Heart failure risk prediction)
 **Goal:** predict a clinical risk score from structured data (project includes an image component).  
+
 **Highlights**
 - Leakage-safe preprocessing + end-to-end pipelines
 - Compared multiple models and tuned hyperparameters (Optuna)
@@ -56,7 +57,8 @@ I enjoy building **end-to-end projects**: data understanding → modeling → va
 ---
 
 ### 📌 Bayesian Hierarchical Modeling — Poisson + Random Effects (Hospitals)
-**Goal:** model count data with **patients nested within hospitals** using hierarchical Bayes.  
+**Goal:** model count data with **patients nested within hospitals** using hierarchical Bayes. 
+
 **Highlights**
 - Poisson regression + Gamma random effects (and variants)
 - Implemented **MCMC from scratch** (Gibbs when possible + Metropolis RW otherwise)
@@ -69,6 +71,7 @@ I enjoy building **end-to-end projects**: data understanding → modeling → va
 
 ### 🧬 Interactive Dashboard — Breast Cancer Genomics (METABRIC)
 **Goal:** make high-dimensional genomics exploration **interactive and accessible** (Learning/Expert modes).  
+
 **Highlights**
 - EDA + differential expression (Volcano Plot)
 - **PCA / UMAP** + neighborhood-preservation metrics
@@ -82,6 +85,7 @@ I enjoy building **end-to-end projects**: data understanding → modeling → va
 
 ### 🌡️ Time Series — Nottingham Monthly Temperatures (1920–1939)
 **Goal:** capture seasonality and forecast with **SARIMA**, benchmarked against **Holt–Winters**.  
+
 **Highlights**
 - Seasonal differencing, ACF/PACF identification, AIC model comparison
 - Residual diagnostics (e.g., Ljung–Box) + prediction intervals
