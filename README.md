@@ -11,7 +11,7 @@
   <a href="mailto:nathandevaux0309@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational" alt="email badge"/>
   </a>
-  <a href="[https://www.linkedin.com/in/YOUR_LINK_HERE/](https://www.linkedin.com/in/nathan-devaux-5a209b352/)]>
+  <a href="https://www.linkedin.com/in/nathan-devaux-5a209b352/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational" alt="linkedin badge"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Belgium-informational" alt="location badge"/>
