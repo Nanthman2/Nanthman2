@@ -97,8 +97,3 @@ I enjoy building **end-to-end projects**: data understanding → modeling → va
 
 ---
 
-## Contact
-
-- Email: `YOUR_EMAIL_HERE`
-- LinkedIn: `https://www.linkedin.com/in/YOUR_LINK_HERE/`
-
