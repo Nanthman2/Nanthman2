@@ -21,8 +21,8 @@
 
 ## 👋 About me
 
-I'm **Nathan Devaux**, a **Junior Data Scientist** currently pursuing an **M.Sc. in Data Science & Applied Statistics (UCLouvain)**.  
-I enjoy building **end-to-end projects**: data understanding → modeling → validation → communication (reports & interactive apps).
+I'm **Nathan Devaux**, a **Junior Data Scientist** with an **M.Sc. in Data Science & Applied Statistics from UCLouvain**.
+"I enjoy building **end-to-end projects**: data understanding → modeling → validation → communication (reports & interactive apps).
 
 **Interests:** Machine Learning, Artificial Intelligence, High-Dimensional Data Mining, Causal Inference.
 
