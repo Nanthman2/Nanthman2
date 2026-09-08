@@ -97,9 +97,3 @@ I enjoy building **end-to-end projects**: data understanding → modeling → va
 ---
 ![Compteur de vues](https://komarev.com/ghpvc/?username=Nanthman2&color=blue)
 
-## Currently
-
-- **Master thesis:** *Causal Inference with Machine Learning* in collaboration with EuroConsumers (Random Controlled Trials and Causal Machine Learning)
-
----
-
