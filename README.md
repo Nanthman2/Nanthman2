@@ -94,6 +94,5 @@ I enjoy building **end-to-end projects**: data understanding → modeling → va
 **Repo:** `time_series_nottingham/`  
 **Report:** `Time_series.pdf`
 
----
-![Compteur de vues](https://komarev.com/ghpvc/?username=Nanthman2&color=blue)
+
 
